@@ -1,0 +1,16 @@
+{
+  "name": "volcanic-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark neon syntax theme that's easy on the eyes.",
+  "keywords": [
+    "dark",
+    "neon",
+    "syntax"
+  ],
+  "repository": "https://github.com/angela-d/volcanic-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
